@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sapreet Singh (GuJJar)</h1>
+<h1 align="center">Hi 👋, I'm Sapreet GuJJar</h1>
 
 <p align="center">
   <b>Full Stack Developer • Automation Engineer • Cybersecurity Explorer</b>
@@ -44,7 +44,3 @@
 > I build automations that build automations — and I’m not stopping until my bots write my README. 😄
 
 ---
-
-<!--
-**sapreetautviz/sapreetautviz** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sapreet GuJJar</h1>
 
-<h3 align="center">💻 Full Stack Developer | ⚙️ Automation Enthusiast | 🛡️ Cybersecurity Explorer</h3>
+<h3 align="center">💻 Full Stack Developer | ⚙️ AI Automation Developer | 🛡️ Cybersecurity Explorer</h3>
 
 ---
 

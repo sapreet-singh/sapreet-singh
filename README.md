@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer and AI Engineer** with **2.5+ years of professional experience** in full-stack development, backend engineering, AI automation, API development, and mobile applications.
+I'm a **Software Engineer and AI Engineer** with **2.8+ years of professional experience** in full-stack development, backend engineering, AI automation, API development, and mobile applications.
 
 Currently working as an **AI Automation & Full Stack Developer at Autviz Solutions**, building scalable software systems, AI-powered automation platforms, REST APIs, and intelligent business workflows.
 

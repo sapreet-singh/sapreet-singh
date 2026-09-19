@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Engineer | 🤖 AI Engineer | 📱 Mobile App Developer | 🛡️ Cybersecurity</h3>
 
 <p align="center">
-  <strong>2.5+ Years of Professional Experience</strong> building software, AI-powered automation systems, APIs, and mobile applications.
+  <strong>2.8+ Years of Professional Experience</strong> building software, AI-powered automation systems, APIs, and mobile applications.
 </p>
 
 <p align="center">
